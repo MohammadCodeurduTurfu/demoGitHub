@@ -1,0 +1,436 @@
+.android-small {
+  background-color: #ffeaae;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.android-small .div {
+  background-color: var(--vanilla);
+  width: 360px;
+  height: 1990px;
+  position: relative;
+}
+
+.android-small .group {
+  position: absolute;
+  width: 360px;
+  height: 177px;
+  top: 0;
+  left: 0;
+}
+
+.android-small .frame {
+  position: absolute;
+  width: 360px;
+  height: 1813px;
+  top: 177px;
+  left: 0;
+}
+
+.android-small .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+}
+
+.android-small .title {
+  position: relative;
+  width: 360px;
+  height: 62px;
+}
+
+.android-small .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  padding: 8px 0px;
+  position: relative;
+  background-color: var(--ut-orange);
+}
+
+.android-small .lorem-ipsum-dolor {
+  position: relative;
+  width: 360px;
+  margin-top: -1px;
+  font-family: var(--sub-title-font-family);
+  font-weight: var(--sub-title-font-weight);
+  font-style: var(--sub-title-font-style);
+  color: var(--smoky-black);
+  font-size: var(--sub-title-font-size);
+  text-align: center;
+  letter-spacing: var(--sub-title-letter-spacing);
+  line-height: var(--sub-title-line-height);
+}
+
+.android-small .la-carte {
+  position: relative;
+  width: 360px;
+  font-family: var(--title-1-font-family);
+  font-weight: var(--title-1-font-weight);
+  color: var(--vanilla);
+  font-size: var(--title-1-font-size);
+  text-align: center;
+  letter-spacing: var(--title-1-letter-spacing);
+  line-height: var(--title-1-line-height);
+  font-style: var(--title-1-font-style);
+}
+
+.android-small .frame-4 {
+  position: relative;
+  width: 344px;
+  height: 228px;
+}
+
+.android-small .casserole-trompette {
+  position: absolute;
+  width: 167px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.android-small .text-wrapper {
+  font-weight: 700;
+}
+
+.android-small .span {
+  font-family: var(--standard-font-family);
+  font-style: var(--standard-font-style);
+  font-weight: var(--standard-font-weight);
+  letter-spacing: var(--standard-letter-spacing);
+  line-height: var(--standard-line-height);
+  font-size: var(--standard-font-size);
+}
+
+.android-small .pexels-thgusstavo {
+  position: absolute;
+  width: 168px;
+  height: 228px;
+  top: 0;
+  left: 176px;
+  object-fit: cover;
+}
+
+.android-small .group-2 {
+  position: relative;
+  width: 360px;
+  height: 254px;
+}
+
+.android-small .photo-andre-siclet {
+  position: absolute;
+  width: 360px;
+  height: 194px;
+  top: 60px;
+  left: 0;
+  object-fit: cover;
+}
+
+.android-small .frame-wrapper {
+  position: absolute;
+  width: 360px;
+  height: 60px;
+  top: 0;
+  left: 0;
+}
+
+.android-small .c-est-lors-d-une-fin {
+  position: relative;
+  width: 344px;
+  font-family: var(--standard-font-family);
+  font-weight: var(--standard-font-weight);
+  color: #000000;
+  font-size: var(--standard-font-size);
+  letter-spacing: var(--standard-letter-spacing);
+  line-height: var(--standard-line-height);
+  font-style: var(--standard-font-style);
+}
+
+.android-small .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.android-small .div-wrapper {
+  position: relative;
+  width: 359px;
+  height: 61px;
+}
+
+.android-small .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.android-small .frame-6 {
+  display: flex;
+  width: 342px;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.android-small .div-2 {
+  display: flex;
+  flex-direction: column;
+  width: 168px;
+  align-items: flex-end;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  background-color: var(--white-85);
+  border-radius: 16px;
+  border: 0px none;
+  border-color: var(--red);
+}
+
+.android-small .text-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--card-title-font-family);
+  font-weight: var(--card-title-font-weight);
+  font-style: var(--card-title-font-style);
+  color: var(--smoky-black);
+  font-size: var(--card-title-font-size);
+  letter-spacing: var(--card-title-letter-spacing);
+  line-height: var(--card-title-line-height);
+}
+
+.android-small .rectangle {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 2px;
+  background-color: var(--red);
+}
+
+.android-small .lorem-ipsum-lorem {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--standard-font-family);
+  font-weight: var(--standard-font-weight);
+  color: var(--smoky-black);
+  font-size: var(--standard-font-size);
+  letter-spacing: var(--standard-letter-spacing);
+  line-height: var(--standard-line-height);
+  font-style: var(--standard-font-style);
+}
+
+.android-small .partir-de {
+  position: relative;
+  width: fit-content;
+  font-family: var(--price-font-family);
+  font-weight: var(--price-font-weight);
+  font-style: var(--price-font-style);
+  color: var(--red);
+  font-size: var(--price-font-size);
+  text-align: right;
+  letter-spacing: var(--price-letter-spacing);
+  line-height: var(--price-line-height);
+  white-space: nowrap;
+}
+
+.android-small .component {
+  margin-right: -2px;
+  display: flex;
+  flex-direction: column;
+  width: 168px;
+  align-items: flex-end;
+  gap: 8px;
+  padding: 16px;
+  position: relative;
+  background-color: var(--white-85);
+  border-radius: 16px;
+  border: 0px none;
+  border-color: var(--red);
+}
+
+.android-small .frame-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.android-small .title-2 {
+  position: relative;
+  width: 360px;
+  height: 60px;
+}
+
+.android-small .p {
+  position: relative;
+  width: 360px;
+  margin-top: -1px;
+  font-family: "Arial-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--smoky-black);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.android-small .group-3 {
+  position: relative;
+  width: 263px;
+  height: 140px;
+}
+
+.android-small .contact {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.android-small .placeholder-svgrepo {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.android-small .element-rue-arcisse-de {
+  position: relative;
+  width: 143px;
+  height: 36px;
+  margin-top: -1px;
+  font-family: var(--standard-font-family);
+  font-weight: var(--standard-font-weight);
+  color: #000000;
+  font-size: var(--standard-font-size);
+  letter-spacing: var(--standard-letter-spacing);
+  line-height: var(--standard-line-height);
+  font-style: var(--standard-font-style);
+}
+
+.android-small .contact-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 52px;
+  left: 0;
+}
+
+.android-small .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--standard-font-family);
+  font-weight: var(--standard-font-weight);
+  color: #000000;
+  font-size: var(--standard-font-size);
+  letter-spacing: var(--standard-letter-spacing);
+  line-height: var(--standard-line-height);
+  font-style: var(--standard-font-style);
+}
+
+.android-small .frame-8 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 104px;
+  left: 0;
+}
+
+.android-small .button {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--amber);
+  border-radius: 16px;
+}
+
+.android-small .bouton {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--action-font-family);
+  font-weight: var(--action-font-weight);
+  color: var(--smoky-black);
+  font-size: var(--action-font-size);
+  letter-spacing: var(--action-letter-spacing);
+  line-height: var(--action-line-height);
+  white-space: nowrap;
+  font-style: var(--action-font-style);
+}
+
+.android-small .group-4 {
+  position: relative;
+  width: 360px;
+  height: 211px;
+}
+
+.android-small .mentions-l-gales-CGV-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 0px;
+  position: absolute;
+  top: 175px;
+  left: 0;
+  background-color: var(--smoky-black);
+}
+
+.android-small .mentions-l-gales-CGV {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.android-small .text-wrapper-4 {
+  text-decoration: underline;
+}
+
+.android-small .text-wrapper-5 {
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 12px;
+}
+
+.android-small .image {
+  position: absolute;
+  width: 360px;
+  height: 175px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
